@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**William-Bess/William-Bess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm William, and welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+- 🔭 Currently, I'm immersed in several exciting projects, including my school life and my thesis.
+- 🌱 Always learning! I'm currently diving deep into pyTorch.
+- 👯 I'm open to collaborating on projects that involve AI coding.
+- 🤔 I'm seeking assistance with python.
+- 💬 Feel free to ask me about anything related to python code or my school life.
+- 📫 You can reach out to me via github issue.
+- 😄 My pronouns are a young.
+- ⚡ Fun fact: I love football.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to connecting and collaborating with fellow developers and enthusiasts! 😊
